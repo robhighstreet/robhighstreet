@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robhighstreet
 - 👀 I’m interested in software engineering. 
 - 🌱 I’m currently learning everyday. 
-- 💞️ I’m not looking to collaborate at present. 
+- 💞️ I’m open to collaborate. 
 - 📫 How to reach me is best by email 
 
 <!---
